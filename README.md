@@ -1,4 +1,4 @@
-<h1 align="center"> Pet Finder  </h1>
+<h1 align="center"> Image Finder  </h1>
 
 This platform allows user to search images from the provided third party API
 
