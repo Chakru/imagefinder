@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import Button from '@material-ui/core/Button';
 import CancelIcon from '@material-ui/icons/Cancel';
-import './Modal.css';
+import './../../../App.css';
 
 const Modal = props => {
   const closeModalOnEsc = e => {

@@ -12,7 +12,7 @@ const CardSection = styled.div`
   box-shadow: 0 0 15px 5px #888888;
   cursor: pointer;
 `;
-const Image = styled.image`
+const Image = styled.img`
   overflow: hidden;
   object-fit: contain;
 `;
