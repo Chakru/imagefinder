@@ -4,19 +4,19 @@ This platform allows user to search images from the provided third party API
 
 Home Screen
 
-![Image](/src/assets/Home.png)
+![Image](/src/Assets/Home.png)
 
 Modal
 
-![Image](/src/assets/Modal.png)
+![Image](/src/Assets/Modal.png)
 
 Search Image
 
-![Image](/src/assets/Search.png)
+![Image](/src/Assets/Search.png)
 
 ## Live Site
 
-[Image Finder](https://doggofinder.netlify.app/)
+[Image Finder](https://imagefinder-mindpeers.netlify.app/)
 
 ## Built With
 
