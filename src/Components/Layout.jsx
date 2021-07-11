@@ -41,7 +41,7 @@ const CardSection = styled.div`
 const NA = styled.div`
   position: absolute;
   right: 42%;
-  top: 300px
+  top: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
