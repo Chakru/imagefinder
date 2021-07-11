@@ -23,5 +23,6 @@ Search Image
 - [React JS](https://reactjs.org/docs/getting-started.html/)
 - [Axios](https://github.com/axios/axios)
 - [Styled Components](https://styled-components.com/)
+- [Material UI](https://material-ui.com/)
 - [Material UI Icon](https://material-ui.com/components/material-icons/)
 - [React Infinite Scroll Components](https://github.com/ankeetmaini/react-infinite-scroll-component)
