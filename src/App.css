@@ -56,3 +56,10 @@
 .modal-title {
   margin: 0;
 }
+
+/* Search Media Query */
+@media all and (max-width: 600px) {
+  .search__inputContainer {
+    width: auto;
+  }
+}
